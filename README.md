@@ -1,29 +1,8 @@
-# Desafio-vuex
+Desafio Vuex
 
-This template should help get you started developing with Vue 3 in Vite.
+Se realiza un simulacion de inventario que al presionar +/- puede agregar o quitar stock
 
-## Recommended IDE Setup
+Tuve problemas al subir a Vercel, quizas esta caido? asi que lo subi a Netlify
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+https://imaginative-brioche-36c1e8.netlify.app/
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
